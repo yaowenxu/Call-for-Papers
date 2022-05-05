@@ -8,18 +8,22 @@
 ### 2022
 - [FAST 2022 February 22-24](https://www.usenix.org/conference/fast22)
 - [ASPLOS 2022 Feb 28 - March 4](https://asplos-conference.org/)
+- [HPCA 2022 Apr. 2–6](https://hpca-conf.org/2022/)
 - [SIGMOD 2022 June 12-17](https://2022.sigmod.org/)
 - [Hot Storage 2022 June 27-28](https://www.hotstorage.org/2022/)
 - [OSDI 2022 July 11-13](https://www.usenix.org/conference/osdi22)
 - [ATC 2022 July 11-13](https://www.usenix.org/conference/atc22)
+- [MICRO 2022 October](https://www.microarch.org/micro55/)
 - [SC 2022 November 13–18](https://sc22.supercomputing.org/)
 
 ### 2021
 - [FAST 2021 February 23–25](https://www.usenix.org/conference/fast21)
+- [HPCA 2021 Feb. 27 — Mar. 3](https://hpca-conf.org/2021/)
 - [ASPLOS 2021 April 12-23](https://asplos-conference.org/2021/index.html)
 - [SIGMOD 2021 June 20-25](https://2021.sigmod.org/)
 - [OSDI 2021 July 14–16](https://www.usenix.org/conference/osdi21)
 - [ATC 2021 July 14–16](https://www.usenix.org/conference/atc21)
 - [Hot Storage 2021 July 27-28](https://www.hotstorage.org/2021/)
+- [MICRO 2021 October 18–22](https://www.microarch.org/micro54/)
 - [SOSP 2021 October 26-29](https://sosp2021.mpi-sws.org/)
 - [SC 2021 November 14–19](https://sc21.supercomputing.org/)
