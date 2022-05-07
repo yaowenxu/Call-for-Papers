@@ -9,6 +9,7 @@
 - [FAST 2022 February 22-24](https://www.usenix.org/conference/fast22)
 - [ASPLOS 2022 Feb 28 - March 4](https://asplos-conference.org/)
 - [HPCA 2022 Apr. 2–6](https://hpca-conf.org/2022/)
+- [EuroSys 2022 April 5-8](https://2022.eurosys.org/)
 - [SIGMOD 2022 June 12-17](https://2022.sigmod.org/)
 - [Hot Storage 2022 June 27-28](https://www.hotstorage.org/2022/)
 - [OSDI 2022 July 11-13](https://www.usenix.org/conference/osdi22)
