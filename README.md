@@ -13,6 +13,7 @@
 - [Hot Storage 2022 June 27-28](https://www.hotstorage.org/2022/)
 - [OSDI 2022 July 11-13](https://www.usenix.org/conference/osdi22)
 - [ATC 2022 July 11-13](https://www.usenix.org/conference/atc22)
+- [APSys 2022 Aug 23-24](https://apsys2022.comp.nus.edu.sg/)
 - [MICRO 2022 October](https://www.microarch.org/micro55/)
 - [SC 2022 November 13–18](https://sc22.supercomputing.org/)
 
