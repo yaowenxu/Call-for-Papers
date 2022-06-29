@@ -17,6 +17,7 @@
 - [SIGMOD 2022 June 12-17](https://2022.sigmod.org/)
 - [ISCA 2022 June 18-22](https://iscaconf.org/isca2022/)
 - [Hot Storage 2022 June 27-28](https://www.hotstorage.org/2022/)
+- [ICS 2022 June 27-30](https://ics2022.github.io/)
 - [OSDI 2022 July 11-13](https://www.usenix.org/conference/osdi22)
 - [ATC 2022 July 11-13](https://www.usenix.org/conference/atc22)
 - [APSys 2022 Aug. 23-24](https://apsys2022.comp.nus.edu.sg/)
