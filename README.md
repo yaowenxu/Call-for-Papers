@@ -25,6 +25,7 @@
 - [ICPP 2022 Aug. 29 - Sept. 1](https://icpp22.gitlabpages.inria.fr/)
 - [VLDB 2022 Sept. 5-9](https://vldb.org/2022/)
 - [MICRO 2022 October](https://www.microarch.org/micro55/)
+- [SoCC 2022 November 7-11](https://acmsocc.org/2022/)
 - [SC 2022 November 13–18](https://sc22.supercomputing.org/)
 
 ### 2021
