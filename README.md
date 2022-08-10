@@ -4,7 +4,7 @@
 ## CSRankings: Computer Science Rankings
 - [计算机系统研究领域科学排名](http://csrankings.org/#/fromyear/2011/toyear/2022/index?comm&ops&world)
 
-## 关键会议信息
+## 关键会议召开信息
 ### 2022
 - [FAST 2022 February 22-24](https://www.usenix.org/conference/fast22)
 - [ASPLOS 2022 Feb. 28 - March 4](https://asplos-conference.org/)
@@ -24,7 +24,7 @@
 - [NVMSA 2022 Aug. 23-25](https://nvmsa2022.github.io/index.html)
 - [ICPP 2022 Aug. 29 - Sept. 1](https://icpp22.gitlabpages.inria.fr/)
 - [VLDB 2022 Sept. 5-9](https://vldb.org/2022/)
-- [MICRO 2022 October](https://www.microarch.org/micro55/)
+- [MICRO 2022 October 1-5](https://www.microarch.org/micro55/)
 - [SoCC 2022 November 7-11](https://acmsocc.org/2022/)
 - [SC 2022 November 13–18](https://sc22.supercomputing.org/)
 
