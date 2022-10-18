@@ -9,6 +9,7 @@
 ### 2023
 - [ICDE 2023 April 3–7](https://icde2023.ics.uci.edu/)
 - [NSDI 2023 April 17–19](https://www.usenix.org/conference/nsdi23)
+- [EuroSys 2023 May 8–12](https://2023.eurosys.org/)
 - [IPDPS 2023 May 15–19](https://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
 
 ### 2022
