@@ -7,6 +7,8 @@
 ## 关键会议召开信息
 
 ### 2023
+- [HPCA 2023 February 25 - March 1](https://hpca-conf.org/2023/)
+- [PPoPP 2023 February 25 - March 1](https://conf.researchr.org/home/PPoPP-2023)
 - [ICDE 2023 April 3–7](https://icde2023.ics.uci.edu/)
 - [NSDI 2023 April 17–19](https://www.usenix.org/conference/nsdi23)
 - [EuroSys 2023 May 8–12](https://2023.eurosys.org/)
