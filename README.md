@@ -13,7 +13,7 @@
 - [ASPLOS 2023 March 25-29](https://asplos-conference.org/2023/)
     - [spring cycle](https://asplos-conference.org/asplos-2023-cfp/): [03.24 03.31 06.16]
     - [summer cycle](https://asplos-conference.org/asplos-2023-cfp/): [06.30 07.07 09.22]
-    - [fall cycle](https://asplos-conference.org/asplos-2023-cfp/): [10.13 10.20 10.19]
+    - [fall cycle](https://asplos-conference.org/asplos-2023-cfp/): [10.13 10.20 01.19]
 - [ICDE 2023 April 3–7](https://icde2023.ics.uci.edu/)
 - [NSDI 2023 April 17–19](https://www.usenix.org/conference/nsdi23)
 - [EuroSys 2023 May 8–12](https://2023.eurosys.org/)
