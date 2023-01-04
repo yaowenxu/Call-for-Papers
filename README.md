@@ -5,28 +5,20 @@
 - [计算机系统研究领域科学排名](http://csrankings.org/#/fromyear/2011/toyear/2022/index?comm&ops&world)
 
 ## 关键会议召开信息
-* ["registration deadline" "submission deadline" "notification"]
 
 ### 2023
-- [FAST 2023 February 21-23](https://www.usenix.org/conference/fast23)
-- [HPCA 2023 February 25 - March 1](https://hpca-conf.org/2023/)
-- [PPoPP 2023 February 25 - March 1](https://conf.researchr.org/home/PPoPP-2023)
-- [ASPLOS 2023 March 25-29](https://asplos-conference.org/2023/)
-- [ICDE 2023 April 3–7](https://icde2023.ics.uci.edu/)
-- [NSDI 2023 April 17–19](https://www.usenix.org/conference/nsdi23)
-- [EuroSys 2023 May 8–12](https://2023.eurosys.org/)
-- [IPDPS 2023 May 15–19](https://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
-- [ICS 2023 June 21-23](https://nschiele.github.io/ICS2023/)
-    - abstract submission: January 27th, 2023 AOE (firm deadline, no extension)
-    - paper submission: February 3rd, 2023 AOE (firm deadline, no extension)
-- [OSDI 2023 July 10–12](https://www.usenix.org/conference/osdi23)
-- [ATC 2023 July 10–12](https://www.usenix.org/conference/atc23)
-    - abstract registrations due: Thursday, January 5, 2023, 11:59 pm UTC
-    - submissions due: Thursday, January 12, 2023, 11:59 pm UTC
-- [SC 2023 November 12–17](https://sc23.supercomputing.org/)
-    - submissions open: MAR 1, 2023
-    - abstract submissions close: MAR 30, 2023
-    - paper submissions close: APR 6, 2023
+- [x] [FAST 2023 February 21-23](https://www.usenix.org/conference/fast23)
+- [x] [HPCA 2023 February 25 - March 1](https://hpca-conf.org/2023/)
+- [ ] [PPoPP 2023 February 25 - March 1](https://conf.researchr.org/home/PPoPP-2023)
+- [ ] [ASPLOS 2023 March 25-29](https://asplos-conference.org/2023/)
+- [ ] [ICDE 2023 April 3–7](https://icde2023.ics.uci.edu/)
+- [ ] [NSDI 2023 April 17–19](https://www.usenix.org/conference/nsdi23)
+- [ ] [EuroSys 2023 May 8–12](https://2023.eurosys.org/)
+- [ ] [IPDPS 2023 May 15–19](https://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
+- [ ] [ICS 2023 June 21-23](https://nschiele.github.io/ICS2023/)
+- [ ] [OSDI 2023 July 10–12](https://www.usenix.org/conference/osdi23)
+- [ ] [ATC 2023 July 10–12](https://www.usenix.org/conference/atc23)
+- [ ] [SC 2023 November 12–17](https://sc23.supercomputing.org/)
 
 ### 2022
 - [FAST 2022 February 22-24](https://www.usenix.org/conference/fast22)
