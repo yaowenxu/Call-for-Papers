@@ -4,6 +4,7 @@
 ## CSRankings: Computer Science Rankings
 - [CSRankings: Computer Science Rankings](http://csrankings.org/#/fromyear/2011/toyear/2022/index?comm&ops&world)
 - [Conference Tables of Contents and Programs](https://www.conference-publishing.com/)
+- [A Wiki for Calls For Papers](http://www.wikicfp.com/cfp/)
 
 ## 关键会议召开信息
 
