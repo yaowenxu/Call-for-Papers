@@ -20,6 +20,7 @@
 - [ ] [ICS 2023 June 21-23](https://nschiele.github.io/ICS2023/)
 - [ ] [OSDI 2023 July 10–12](https://www.usenix.org/conference/osdi23)
 - [ ] [ATC 2023 July 10–12](https://www.usenix.org/conference/atc23)
+- [ ] [VLDB 2023 Aug. 28 - Sept. 1](https://vldb.org/2023/)
 - [ ] [SC 2023 November 12–17](https://sc23.supercomputing.org/)
 
 ### 2022
