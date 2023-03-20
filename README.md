@@ -11,7 +11,7 @@
 ### 2023
 - [x] [FAST 2023 February 21-23](https://www.usenix.org/conference/fast23)
 - [x] [HPCA 2023 February 25 - March 1](https://hpca-conf.org/2023/)
-- [ ] [PPoPP 2023 February 25 - March 1](https://conf.researchr.org/home/PPoPP-2023)
+- [x] [PPoPP 2023 February 25 - March 1](https://conf.researchr.org/home/PPoPP-2023)
 - [x] [ASPLOS 2023 March 25-29](https://asplos-conference.org/2023/)
 - [ ] [ICDE 2023 April 3–7](https://icde2023.ics.uci.edu/)
 - [ ] [NSDI 2023 April 17–19](https://www.usenix.org/conference/nsdi23)
@@ -21,7 +21,9 @@
 - [ ] [OSDI 2023 July 10–12](https://www.usenix.org/conference/osdi23)
 - [ ] [ATC 2023 July 10–12](https://www.usenix.org/conference/atc23)
 - [ ] [VLDB 2023 Aug. 28 - Sept. 1](https://vldb.org/2023/)
+- [ ] [SoCC 2022 November 7-11](https://acmsocc.org/2022/)
 - [ ] [SC 2023 November 12–17](https://sc23.supercomputing.org/)
+- [ ] [HPCC 2022 DEC. 18-21](http://www.ieee-hpcc.org/2022/)
 
 ### 2022
 - [FAST 2022 February 22-24](https://www.usenix.org/conference/fast22)
@@ -46,6 +48,7 @@
 - [MICRO 2022 October 1-5](https://www.microarch.org/micro55/)
 - [SoCC 2022 November 7-11](https://acmsocc.org/2022/)
 - [SC 2022 November 13–18](https://sc22.supercomputing.org/)
+- [HPCC 2022 DEC. 18-21](http://www.ieee-hpcc.org/2022/)
 
 ### 2021
 - [FAST 2021 February 23–25](https://www.usenix.org/conference/fast21)
