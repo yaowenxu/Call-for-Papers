@@ -16,7 +16,7 @@
 - [x] [ASPLOS 2023 March 25-29](https://asplos-conference.org/2023/)
 - [ ] [ICDE 2023 April 3–7](https://icde2023.ics.uci.edu/)
 - [ ] [NSDI 2023 April 17–19](https://www.usenix.org/conference/nsdi23)
-- [ ] [EuroSys 2023 May 8–12](https://2023.eurosys.org/)
+- [x] [EuroSys 2023 May 8–12](https://2023.eurosys.org/)
 - [ ] [IPDPS 2023 May 15–19](https://www.ipdps.org/ipdps2023/2023-call-for-papers.html)
 - [ ] [ICS 2023 June 21-23](https://nschiele.github.io/ICS2023/)
 - [ ] [OSDI 2023 July 10–12](https://www.usenix.org/conference/osdi23)
